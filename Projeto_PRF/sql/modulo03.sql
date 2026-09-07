@@ -17,7 +17,7 @@ select version();
 -- O arquivo CSV está localizado no diretório 'dados_brutos' e utiliza o delimitador ';'
 -- Lembra de inserir a o parâmetro 'encoding' para lidar com caracteres especiais, como acentos e cedilha
 select * from read_csv_auto(
-    'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\dados_brutos\acidentes2025.csv',
+    '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/dados_brutos',
     delim = ';',
     header = true,
     encoding = 'latin-1',
@@ -26,7 +26,7 @@ select * from read_csv_auto(
 
 create or replace table acidentes_prf_2025 as
 select * from read_csv_auto(
-    'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\dados_brutos\acidentes2025.csv',
+    '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/dados_brutos',
     delim = ';',
     header = true,
     encoding = 'latin-1',
@@ -628,15 +628,15 @@ copy vw_acidentes_por_tipo_lift
         (HEADER, DELIMITER ';');
 
 copy vw_acidentes_por_causa_lift 
-    to 'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\resultados/bivariada_causa_acidente.csv' 
+    to '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/resultados/bivariada_causa_acidente.csv' 
         (HEADER, DELIMITER ';');
 
 copy vw_acidentes_por_condicao_metereologica_lift 
-    to 'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\resultados/bivariada_condicao_metereologica.csv' 
+    to '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/resultados/bivariada_condicao_metereologica.csv' 
         (HEADER, DELIMITER ';');
 
 copy vw_acidentes_por_uf_lift 
-    to 'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\resultados/bivariada_uf.csv' 
+    to '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/resultados/bivariada_uf.csv' 
         (HEADER, DELIMITER ';');
 COPY (
   SELECT
@@ -650,7 +650,7 @@ COPY (
     uso_solo, mortos, acidente_fatal
   FROM acidentes_prf_2025
 )
-TO 'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\resultados/base_analitica_sql.csv'
+TO '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/resultados/base_analitica_sql.csv'
 (HEADER, DELIMITER ';');
 
 COPY (
@@ -666,7 +666,7 @@ COPY (
     uso_solo, acidente_fatal
   FROM acidentes_prf_2025
 )
-TO 'C:\Users\danso\OneDrive\Documentos\GitHub\FAP-2026-AnaliseDados\Projeto_PRF\resultados/base_modelavel_preliminar_sql.csv'
+TO '/workspaces/FAP-2026-AnaliseDados/Projeto_PRF/resultados/base_modelavel_preliminar_sql.csv'
 (HEADER, DELIMITER ';');
 
 

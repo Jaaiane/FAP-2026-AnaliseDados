@@ -1,70 +1,70 @@
 Causa de Acidente;Total de Acidentes;Total de Acidentes Fatais;Total de Mortos;Taxa de Acidentes Fatais;Lift
-Suicídio (presumido);190;106;111;55,79%;7.77
-Pedestre andava na pista;606;250;252;41,25%;5.74
-Entrada inopinada do pedestre;667;203;209;30,43%;4.24
-Transitar na contramão;2475;736;961;29,74%;4.14
-Participar de racha;22;6;7;27,27%;3.8
-Pedestre cruzava a pista fora da faixa;525;130;133;24,76%;3.45
-Falta de acostamento;60;11;11;18,33%;2.55
-Modificação proibida;11;2;2;18,18%;2.53
-Pedestre - Ingestão de álcool/ substâncias psicoativas;150;27;28;18,00%;2.51
-Ultrapassagem Indevida;1770;302;404;17,06%;2.38
-Transtornos Mentais (exceto suicidio);59;10;10;16,95%;2.36
-Restrição de visibilidade em curvas verticais;13;2;2;15,38%;2.14
-Área urbana sem a presença de local apropriado para a travessia de pedestres;81;12;12;14,81%;2.06
-Iluminação deficiente;157;23;24;14,65%;2.04
-Deficiência do Sistema de Iluminação/Sinalização;165;24;24;14,55%;2.02
-Mal súbito do condutor;546;73;87;13,37%;1.86
-Transitar no Acostamento;498;65;71;13,05%;1.82
-Semáforo com defeito;8;1;1;12,50%;1.74
-Velocidade Incompatível;4088;385;470;9,42%;1.31
-Curva acentuada;203;17;19;8,37%;1.17
-Sinalização mal posicionada;61;5;6;8,20%;1.14
-Problema com o freio;247;19;21;7,69%;1.07
-Demais falhas na via;275;19;23;6,91%;0.96
-Ausência de reação do condutor;11469;779;855;6,79%;0.95
-Deixar de acionar o farol da motocicleta (ou similar);15;1;1;6,67%;0.93
-Condutor Dormindo;2116;135;171;6,38%;0.89
-Afundamento ou ondulação no pavimento;206;12;14;5,83%;0.81
-Animais na Pista;1305;72;78;5,52%;0.77
-Acessar a via sem observar a presença dos outros veículos;7097;394;421;5,55%;0.77
-Acesso irregular;768;42;43;5,47%;0.76
-Estacionar ou parar em local proibido;182;10;11;5,49%;0.76
-Acostamento em desnível;167;9;9;5,39%;0.75
-Condutor usando celular;189;10;12;5,29%;0.74
-Pista esburacada;232;12;17;5,17%;0.72
-Falta de elemento de contenção que evite a saída do leito carroçável;59;3;4;5,08%;0.71
-Reação tardia ou ineficiente do condutor;10799;528;597;4,89%;0.68
-Ingestão de álcool pelo condutor;3685;180;223;4,88%;0.68
-Ingestão de substâncias psicoativas pelo condutor;62;3;3;4,84%;0.67
-Conversão proibida;1018;48;55;4,72%;0.66
-Desvio temporário;45;2;2;4,44%;0.62
-Restrição de visibilidade em curvas horizontais;23;1;1;4,35%;0.61
-Retorno proibido;325;14;17;4,31%;0.6
-Pista Escorregadia;545;23;37;4,22%;0.59
-Trafegar com motocicleta (ou similar) entre as faixas;1325;53;56;4,00%;0.56
-Manobra de mudança de faixa;4016;161;188;4,01%;0.56
-Ausência de sinalização;178;7;7;3,93%;0.55
-Carga excessiva e/ou mal acondicionada;256;10;10;3,91%;0.54
-Objeto estático sobre o leito carroçável;412;16;17;3,88%;0.54
-Chuva;1020;38;46;3,73%;0.52
-Acumulo de água sobre o pavimento;477;16;23;3,35%;0.47
-Problema na suspensão;38;1;1;2,63%;0.37
-Condutor desrespeitou a iluminação vermelha do semáforo;268;7;8;2,61%;0.36
-Demais Fenômenos da natureza;84;2;2;2,38%;0.33
-Avarias e/ou desgaste excessivo no pneu;1176;26;31;2,21%;0.31
-Neblina;50;1;1;2,00%;0.28
-Condutor deixou de manter distância do veículo da frente;4413;78;89;1,77%;0.25
-Desrespeitar a preferência no cruzamento;1259;22;27;1,75%;0.24
-Frear bruscamente;358;6;7;1,68%;0.23
-Acumulo de areia ou detritos sobre o pavimento;308;5;7;1,62%;0.23
-Demais falhas mecânicas ou elétricas;3385;52;59;1,54%;0.21
-Acumulo de óleo sobre o pavimento;228;3;5;1,32%;0.18
-Faróis desregulados;9;0;0;0,00%;0.0
-Transitar na calçada;11;0;0;0,00%;0.0
-Redutor de velocidade em desacordo;8;0;0;0,00%;0.0
-Declive acentuado;19;0;0;0,00%;0.0
-Sinalização encoberta;2;0;0;0,00%;0.0
-Faixas de trânsito com largura insuficiente;12;0;0;0,00%;0.0
+Suicídio (presumido);254;139;145;54,72%;7.69
+Pedestre andava na pista;848;353;358;41,63%;5.85
+Transitar na contramão;3487;1022;1336;29,31%;4.12
+Entrada inopinada do pedestre;915;266;273;29,07%;4.09
+Participar de racha;33;9;10;27,27%;3.83
+Pedestre cruzava a pista fora da faixa;743;178;181;23,96%;3.37
+Pedestre - Ingestão de álcool/ substâncias psicoativas;197;38;39;19,29%;2.71
+Falta de acostamento;83;14;14;16,87%;2.37
+Ultrapassagem Indevida;2507;418;550;16,67%;2.34
+Área urbana sem a presença de local apropriado para a travessia de pedestres;100;16;16;16,00%;2.25
+Restrição de visibilidade em curvas verticais;19;3;3;15,79%;2.22
+Deficiência do Sistema de Iluminação/Sinalização;228;35;35;15,35%;2.16
+Modificação proibida;13;2;2;15,38%;2.16
+Transtornos Mentais (exceto suicidio);87;12;12;13,79%;1.94
+Transitar no Acostamento;699;86;92;12,30%;1.73
+Iluminação deficiente;206;25;26;12,14%;1.71
+Mal súbito do condutor;761;90;106;11,83%;1.66
+Semáforo com defeito;9;1;1;11,11%;1.56
+Deixar de acionar o farol da motocicleta (ou similar);20;2;2;10,00%;1.41
+Curva acentuada;268;25;28;9,33%;1.31
+Velocidade Incompatível;5720;530;658;9,27%;1.3
+Faróis desregulados;11;1;1;9,09%;1.28
+Redutor de velocidade em desacordo;12;1;1;8,33%;1.17
+Problema com o freio;350;29;34;8,29%;1.16
+Condutor Dormindo;2893;195;261;6,74%;0.95
+Ingestão de substâncias psicoativas pelo condutor;91;6;22;6,59%;0.93
+Demais falhas na via;398;26;30;6,53%;0.92
+Ausência de reação do condutor;16190;1055;1166;6,52%;0.92
+Condutor usando celular;260;16;18;6,15%;0.87
+Sinalização mal posicionada;82;5;6;6,10%;0.86
+Acesso irregular;1114;67;69;6,01%;0.85
+Pista esburacada;426;25;31;5,87%;0.83
+Animais na Pista;1839;105;113;5,71%;0.8
+Neblina;70;4;4;5,71%;0.8
+Acessar a via sem observar a presença dos outros veículos;10003;556;596;5,56%;0.78
+Ausência de sinalização;261;14;14;5,36%;0.75
+Faixas de trânsito com largura insuficiente;19;1;1;5,26%;0.74
+Afundamento ou ondulação no pavimento;309;16;18;5,18%;0.73
+Objeto estático sobre o leito carroçável;599;31;35;5,18%;0.73
+Falta de elemento de contenção que evite a saída do leito carroçável;78;4;5;5,13%;0.72
+Ingestão de álcool pelo condutor;5125;250;306;4,88%;0.69
+Reação tardia ou ineficiente do condutor;15262;750;844;4,91%;0.69
+Conversão proibida;1425;69;76;4,84%;0.68
+Retorno proibido;483;23;26;4,76%;0.67
+Acostamento em desnível;246;11;11;4,47%;0.63
+Manobra de mudança de faixa;5595;244;289;4,36%;0.61
+Pista Escorregadia;803;34;49;4,23%;0.6
+Carga excessiva e/ou mal acondicionada;356;14;14;3,93%;0.55
+Estacionar ou parar em local proibido;257;10;11;3,89%;0.55
+Problema na suspensão;52;2;2;3,85%;0.54
+Trafegar com motocicleta (ou similar) entre as faixas;1878;72;77;3,83%;0.54
+Acumulo de água sobre o pavimento;789;29;39;3,68%;0.52
+Chuva;1551;57;71;3,68%;0.52
+Desvio temporário;56;2;2;3,57%;0.5
+Declive acentuado;29;1;1;3,45%;0.48
+Restrição de visibilidade em curvas horizontais;31;1;1;3,23%;0.45
+Demais Fenômenos da natureza;111;3;3;2,70%;0.38
+Condutor desrespeitou a iluminação vermelha do semáforo;371;9;10;2,43%;0.34
+Avarias e/ou desgaste excessivo no pneu;1684;34;40;2,02%;0.28
+Desrespeitar a preferência no cruzamento;1760;33;39;1,88%;0.26
+Condutor deixou de manter distância do veículo da frente;6192;116;133;1,87%;0.26
+Frear bruscamente;512;9;10;1,76%;0.25
+Acumulo de areia ou detritos sobre o pavimento;423;7;9;1,65%;0.23
+Acumulo de óleo sobre o pavimento;305;5;7;1,64%;0.23
+Demais falhas mecânicas ou elétricas;4747;71;90;1,50%;0.21
+Transitar na calçada;15;0;0;0,00%;0.0
 Sistema de drenagem ineficiente;2;0;0;0,00%;0.0
-Fumaça;31;0;0;0,00%;0.0
+Fumaça;37;0;0;0,00%;0.0
+Sinalização encoberta;4;0;0;0,00%;0.0
